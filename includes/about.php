@@ -3,13 +3,15 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-7 col-sm-6">
+                <div class="col-lg-12 col-sm-12">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading" style="margin-top:0px">Welcome</h2>
-                    <p class="lead">Welcome to Lante Investment Holdings, we are a pure research and actuarial firm, we specialize in building quantitative and qualitative solutions in the emerging business and economic development space.  We have observed hurdles faced  by small businesses in decision making such irrational activity given complex offerings and emotional cloud, these amoung other attributes have resulted in high business failure rate, currently at over 82% within 5 years. Lante team recognizes where small-medium businesses fall short and it is mainly as a result of cognitive mistakes, our solution is simply to build crutches and nudges to assist small-medium businesses to be sustainable in the intricate business ecosystem. We are passionate and love building sound auxiliary platforms that forester emerging businesses to greater heights.</p>
-                </div>
-                <div class="col-lg-5 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
+                    <h2 class="section-heading" style="margin-top:0px">About Us</h2>
+                    <p class="lead">Lante Investment Holdings was registered in 2009, since been involved in researching, consulting and developing products in various industries and levels. We understand the science behind small business development complexities, sustainability and the need for Small/Medium businesses to grow to the next level</p>
+                    
+                    <p class="lead">Our young and vibrant leadership team has a combined working experience of 24 years. The leadership team comprises of E. Luthuli (Actuarial Analyst & Co-Founder), T. Madzhadzhi (Actuary & Co-Founder) and advisor V. Seanie (Advisor, CA & CFA).  The leadership team is determined to create a sound ecosystem for Small-Medium businesses using risk management methods.</p>
+                    
+                    
+                    <p>AFFILIATIONS:<br>Fellow of the Actuarial Society of South Africa (FASSA)<br>Association of South African Actuaries (ASSA)<br>Association of South African Black Actuaries (ASABA)<br>Chartered Accountants South Africa (CASA)<br>Charted Financial Analyst (CFA)<br>Investment Analysts Society of South Africa (IASSA)</p>
                 </div>
             </div>
 
@@ -26,15 +28,14 @@
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading" style="margin-top:0px">Our Interests include:</h2>
+                    <h2 class="section-heading" style="margin-top:0px">Our Vision</h2>
                     <ul>
-                      <li><p>Research and forecasting</p></li>
-                      <li><p>Monitoring and Valuation</p></li>
-                      <li><p>Business strategy/development</p></li>
-                      <li><p>Direct Investments</p></li>
-                      <li><p>Policy structuring</p></li>
-                      <li><p>Board membership</p></li>
-                      <li><p>Behavioral Science</p></li>
+                      <li><p>Core Values</p></li>
+                      <li><p>Honesty and integrity</p></li>
+                      <li><p>Intellectual leadership</p></li>
+                      <li><p>Business astuteness</p></li>
+                      <li><p>Innovation</p></li>
+                      <li><p>Great just isn't good enough</p></li>
                     </ul>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">

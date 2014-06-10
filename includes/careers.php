@@ -1,18 +1,11 @@
     <div class="content-section-a">
 
         <div class="container">
-
             <div class="row">
-                <div class="col-lg-7 col-sm-6">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading" style="margin-top:0px">Welcome</h2>
-                    <p class="lead">Welcome to Lante Investment Holdings, we are a pure research and actuarial firm, we specialize in building quantitative and qualitative solutions in the emerging business and economic development space.  We have observed hurdles faced  by small businesses in decision making such irrational activity given complex offerings and emotional cloud, these amoung other attributes have resulted in high business failure rate, currently at over 82% within 5 years. Lante team recognizes where small-medium businesses fall short and it is mainly as a result of cognitive mistakes, our solution is simply to build crutches and nudges to assist small-medium businesses to be sustainable in the intricate business ecosystem. We are passionate and love building sound auxiliary platforms that forester emerging businesses to greater heights.</p>
-                </div>
-                <div class="col-lg-5 col-sm-6">
-                    <img class="img-responsive" src="img/ipad.png" alt="">
-                </div>
+                <div class="clearfix"></div>
+                <h2 class="section-heading" style="margin-top:0px">Careers</h2>
+                <p class="lead">Lante Investment is a high-performance organisation where we strive to hire only high academic and innovative people. If you are a top performing graduate studying towards a degree in Actuarial Science, Information Technology/Computer Science, Mathematics/Statistical Science, Media studies or Political Science/Psychology? Why not send us your CV and perhaps you could be part of great minds and thinkers building innovative products that mean something to our community.</p>
             </div>
-
         </div>
         <!-- /.container -->
 
@@ -22,9 +15,10 @@
     <div class="content-section-b">
 
         <div class="container">
-
+            <!--
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                   
                     <div class="clearfix"></div>
                     <h2 class="section-heading" style="margin-top:0px">Our Interests include:</h2>
                     <ul>
@@ -36,12 +30,13 @@
                       <li><p>Board membership</p></li>
                       <li><p>Behavioral Science</p></li>
                     </ul>
+                    
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/doge.png" alt="">
                 </div>
             </div>
-
+          -->
         </div>
         <!-- /.container -->
 

@@ -7,7 +7,7 @@ else {
     $request = 'home';
 }
 
-$pages = array('contact'=>'includes/contact.php','careers'=>'includes/careers.php','about'=>'includes/about.php','home'=>'includes/home.php');
+$pages = array('contact'=>'includes/contact.php','careers'=>'includes/careers.php','about'=>'includes/about.php','home'=>'includes/home.php','associates'=>'includes/associates.php','vision'=>'includes/vision.php');
 $page = "";
 
 // if I understand the request

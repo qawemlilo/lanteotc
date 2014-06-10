@@ -1,51 +1,17 @@
 
 
-    <div class="banner">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-6">
-                    <h2>Connect with us:</h2>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="list-inline banner-social-buttons">
-                        <li>
-                          <a href="https://twitter.com/lanteotc" target="_blank" class="btn btn-default btn-lg">
-                            <i class="fa fa-twitter fa-fw"></i> <span class="network-name">@lanteOTC</span>
-                          </a>
-                        </li>
-                        <li>
-                          <a href="#" class="btn btn-default btn-lg">
-                            <i class="fa fa-github fa-fw"></i> <span class="network-name">BBM pin:-26A27B59</span>
-                          </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.banner -->
-
     <footer>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="list-inline">
-                        <li><a href="<?php echo "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">Home</a>
-                        </li>
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <li><a href="?p=about">About Us</a>
-                        </li>
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <li><a href="?p=careers">Careers</a>
-                        </li>
-                        <li class="footer-menu-divider">&sdot;</li>
-                        <li><a href="?p=contact">Contact Us</a>
-                        </li>
+                        <li><i class="fa fa-twitter"></i> <a href="https://twitter.com/lanteotc" target="_blank">@lanteotc</a></li>
+                        <li class="footer-menu-divider">|</li>
+                         <li><i class="fa fa-envelope"></i> <a href="mailto:gina@lante.co.za" target="_blank">Email</a></li>
+                        <li class="footer-menu-divider">|</li>
+                        <li><i class="fa fa-thumb-tack"></i> <a href="http://www.pinterest.com/lanteotc/pins" target="_blank">Pin</a></li>
+                        <li class="footer-menu-divider">|</li>
+                        <li><i class="fa fa-youtube"></i> <a href="http://www.youtube.com/channel/UCL3JNbDC5Ax0oQXhsegraEw" target="_blank">YouTube</a></li>
                     </ul>
                     <p class="copyright text-muted small">Copyright &copy; Lante Investment Holdings<sup>&reg;</sup> 2014. All Rights Reserved</p>
                 </div>
